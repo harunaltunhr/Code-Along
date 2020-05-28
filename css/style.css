@@ -35,3 +35,33 @@
   }
   
   /* 1_Header finished */
+  /* 2_main_section started */
+  #firstsection{
+    background:url('../images/showcase.jpg') no-repeat center center;
+    border-bottom:1px solid #56a79a;
+    margin-bottom:30px;
+  }
+  
+  #firstsection .row{
+    height:600px;
+  }
+  
+  #firstsection h1{
+    font-size:50px;
+    margin:0;
+    padding-bottom:20px;
+  }
+  
+  #firstsection p{
+    color:#ccc;
+    margin:0;
+  }
+  
+  #firstsection .firstsection-content{
+    background:#333;
+    color:#fff;
+    border-radius:90px;
+    padding:40px;
+    opacity:0.9;
+  }
+  
