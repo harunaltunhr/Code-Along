@@ -1,1 +1,37 @@
-
+/* 1_Header start */
+#main-header {
+    border-bottom: 1px solid #56a79a;
+  }
+  
+  body {
+    font-family: "Open-sans", sans-serif;
+    font-size: 17px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #navbar li {
+    display: inline;
+    padding-right: 20px;
+    list-style: none;
+  }
+  
+  #navbar a {
+    text-decoration: none;
+    color: #888;
+  }
+  .container{
+      margin: auto;  
+    }
+  #navbar li.current a,
+  #navbar a:hover {
+    color: #56a79a;
+    border-bottom: 3px solid #56a79a;
+    padding-bottom: 3px;
+  }
+  .text {
+    color: #56a79a;
+  }
+  
+  /* 1_Header finished */
