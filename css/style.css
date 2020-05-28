@@ -103,3 +103,31 @@
   img{
     width:100%;
   }
+  #contact{
+    background:#333;
+    color:#fff;
+    padding:10px 0;
+  }
+  
+  #contact h4{
+    text-transform:uppercase;
+    margin-bottom:0;
+  }
+  
+  #contact ul{
+    padding:0;
+    list-style:none;
+    line-height:2em;
+  }
+  
+  #contact input[type="text"]{
+    padding:7px;
+  }
+  
+  #contact button{
+    background:#222;
+    color:#fff;
+    padding:10px;
+    border:0;
+  }
+  
