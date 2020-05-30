@@ -36,9 +36,9 @@ __A User can see my initial repository and live demo__
 - #9 Create contactmail
  
 
-## 1. __Header__
+## 1. __User Story: Header__
 
-__I want to see website name and which pages include that webpages. Also I want to reach other pages__
+__As a site visitor,I want to see website name and which pages include that webpages. Also I want to reach other pages__
 
 ### Repo
 
@@ -57,9 +57,9 @@ __I want to see website name and which pages include that webpages. Also I want 
 - Push `1-header` to Github
 - Merge `1-header` using pull request. _(This should close issue #1)_
 --
-## 2. __Main_section__
+## 2. __User Story: Introduction About Company__
 
-__I want to see general information about company__
+__As a site visitor,I want to see general information about company__
 
 ### Repo
 
@@ -78,9 +78,9 @@ __I want to see general information about company__
 - Push `2-main_section` to Github
 - Merge `2-main_section` using pull request. _(This should close issue #2)_
 
-## 3. __Main_article__
+## 3. __User Story: Detailed Information About Company&Works__
 
-__I want to see what works that company doing__
+__As a site visitor,I want to see what works that company doing__
 
 ### Repo
 
@@ -99,9 +99,9 @@ __I want to see what works that company doing__
 - Push `3-main_article` to Github
 - Merge `3-main_article` using pull request. _(This should close issue #3)_
 
-## 4. __Info_section__
+## 4. __User Story:Available works from Company__
 
-__I want to see all works company doing together like a list__
+__As a site visitor,I want to see all works company doing together like a list__
 
 ### Repo
 
@@ -121,9 +121,9 @@ __I want to see all works company doing together like a list__
 - Merge `4_info` using pull request. _(This should close issue #4)_
 
 
-## 5. __Contact__
+## 5. __User Story:Contact Information__
 
-__I want to see how can I contact with company. I need to see company adress,phone numbers and subscribe their mail list__
+__As a site visitor,I want to see how can I contact with company. I need to see company adress,phone numbers and subscribe their mail list__
 
 ### Repo
 
@@ -142,9 +142,9 @@ __I want to see how can I contact with company. I need to see company adress,pho
 - Push `5_contact` to Github
 - Merge `5_contact` using pull request. _(This should close issue #5)_
 
-## 6. __Footer__
+## 6. __User Story:Web Page License Right&Designer__
 
-__I want to see designer&license of that page at the bottom__
+__As a site visitor,I want to see designer&license of that page at the bottom__
 
 ### Repo
 
@@ -163,9 +163,9 @@ __I want to see designer&license of that page at the bottom__
 - Push `6_footer` to Github
 - Merge `6_footer` using pull request. _(This should close issue #6)_
 
-## 7. __About__
+## 7. __User Story: About Page__
 
-__I want to see general information about company in new page called about.__
+__As a site visitor,I want to see general information about company in new page called about.__
 
 ### Repo
 
@@ -186,9 +186,9 @@ __I want to see general information about company in new page called about.__
 
 
 
-## 8. __Services__
+## 8. __User Story: Services Page__
 
-__I want to see detailed information about company services in a new page.__
+__As a site visitor,I want to see detailed information about company services in a new page.__
 
 ### Repo
 
@@ -208,9 +208,9 @@ __I want to see detailed information about company services in a new page.__
 - Merge `8_services` using pull request. _(This should close issue #8)_
 
 
-## 9. __Contactmail__
+## 9. __User Story: Contact with mail __
 
-__I want to be contact with company with a new page via mail form.__
+__As a site visitor,I want to be contact with company with a new page via mail form.__
 
 ### Repo
 
